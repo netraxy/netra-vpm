@@ -2,7 +2,7 @@
   "name": "NETRA VPM Repository",
   "id": "com.netra.vpm",
   "author": "NETRA",
-  "url": "https://YOUR_GITHUB_USERNAME.github.io/netra-vpm/index.json",
+  "url": "https://netraxy.github.io/netra-vpm/index.json",
   "packages": {
     "com.netra.avatar-optimizer": {
       "versions": {
@@ -14,15 +14,13 @@
           "description": "Unity Editor tool to optimize VRChat avatars.",
           "author": {
             "name": "NETRA",
-            "url": "https://github.com/YOUR_GITHUB_USERNAME"
+            "url": "https://github.com/netraxy"
           },
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.5.0"
           },
-          "url": "https://github.com/YOUR_GITHUB_USERNAME/netra-avatar-optimizer/releases/download/1.0.0/com.netra.avatar-optimizer-1.0.0.zip",
-          "zipSHA256": "4A14629AC88B88200D567E280B6EDD4F00D3F2A74046ABA52968450D9BAFF05C
-
-retien"
+          "url": "https://github.com/netraxy/netra-avatar-optimizer/releases/download/1.0.0/com.netra.avatar-optimizer-1.0.0.zip",
+          "zipSHA256": "54B24CD80F2E2862F92D3A1485B0FF6548032B3750E0ECB219ED7CD2EBC797A7"
         }
       }
     }
