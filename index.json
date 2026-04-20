@@ -6,6 +6,22 @@
   "packages": {
     "com.netra.avatar-optimizer": {
       "versions": {
+        "1.2.0": {
+          "name": "com.netra.avatar-optimizer",
+          "displayName": "NETRA Avatar Optimizer",
+          "version": "1.2.0",
+          "unity": "2022.3",
+          "description": "Unity Editor tool to optimize VRChat avatars.",
+          "author": {
+            "name": "NETRA",
+            "url": "https://github.com/netraxy"
+          },
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.5.0"
+          },
+          "url": "https://github.com/netraxy/netra-avatar-optimizer/releases/download/1.2.0/com.netra.avatar-optimizer-1.2.0.zip",
+          "zipSHA256": "FB8431ADE3E761232F5A2BF607456B58D5DE1802E5D763877B12539E954DCB05"
+        },
         "1.1.0": {
           "name": "com.netra.avatar-optimizer",
           "displayName": "NETRA Avatar Optimizer",
